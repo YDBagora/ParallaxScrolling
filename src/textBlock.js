@@ -14,7 +14,7 @@ export const TextBlock = () => {
         </p>
       </div>
       <footer id='textblock-footer'>
-      Demo Created With 🧡 By&nbsp;<a id="textblock-devsense" href="https://youtube.com/c/DevSense19">DevSense</a>
+      Demo Created With 🧡 By&nbsp;<a id="textblock-devsense">Dishu Bagora</a>
       </footer>
     </div>
   )
